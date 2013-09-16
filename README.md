@@ -6,14 +6,10 @@ Inspired from Python's os.expanduser and os.expandvars.
 ## Getting Started
 Install the module with: `npm install xenvar`
 
-## Documentation
-_(Coming soon)_
-
 ## Examples
-_(Coming soon)_
 
-## Release History
-_(Nothing yet)_
+See the test suite for simple usage.
+
 
 ## License
 Copyright (c) 2013 Clément Bourgeois  
